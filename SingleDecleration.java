@@ -9,5 +9,9 @@ public class SingleDecleration {
 		System.out.println("Value of b = "+b);
 
 	}
+	
+	public String ramesh123(int i) {
+		return "ramesh123 method : "+ i;
+	}
 
 }
