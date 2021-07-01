@@ -10,8 +10,13 @@ public class SingleDecleration {
 
 	}
 	
+	public String ramesh123(int i) {
+		return "ramesh123 method : "+ i;
+	}
+	
 	public void m1() {
 		System.out.println("m1 method");
 	}
+
 
 }
